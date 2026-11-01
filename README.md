@@ -1,17 +1,17 @@
-# Jaweriya Muskan Patel 👋
+# Hi, I'm Jaweriya Muskan Patel 👋
 
-### MCA Student | Digital Forensics & Cybersecurity Enthusiast | Pune
+### MCA @ PDEA College, Manjri | Digital Forensics & Cybersecurity
 
-Building secure digital systems. Passionate about Cyber Forensics, Ethical Hacking, and AI-driven threat detection.
+I build secure digital systems. Passionate about Cyber Forensics, Threat Detection & HealthTech solutions.
 
-- 🎓 MCA @ PDEA College of Engineering, Manjri, Pune
-- 🔍 Focus: Digital Forensics | Cyber Threat Analysis | Email Forensics
-- 🚀 Projects: AI-Based Cyber Threat Detection | Hospital Beds & Crisis Coordinator Platform
-- 🏆 Hackathons: SIH 2026 Internal Hackathon | CuriousPARC - VIT Pune & Vishwakarma
-- 📫 Let's Connect: [LinkedIn](https://linkedin.com/in/jaweriya-muskan) | [Email](mailto:your-email@gmail.com)
+- 🎓 MCA - PDEA College of Engineering, Manjri, Pune
+- 🔍 Expertise: Digital Forensics, Cyber Threat Analysis, Email Forensics
+- 🚀 Building: AI-Based Threat Detection & Hospital Crisis Coordinator
+- 🏆 Hackathons: SIH 2026 | CuriousPARC @ VIT Pune (Maharashtra's Biggest Hackathon)
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/jaweriya-muskan)
 
-### 🛠️ Skills
-`Python` `Cyber Security` `Digital Forensics` `Wireshark` `Kali Linux` `Machine Learning` `JavaScript` `React` `Git & GitHub`
+### 🛠️ Tech Stack
+`Python` `Cybersecurity` `Digital Forensics` `Wireshark` `Kali Linux` `Machine Learning` `JavaScript` `React` `Git`
 
-### 📌 Featured Work
-Check out my repositories below - working on real-world problems in Cybersecurity and HealthTech.
+### 📌 What I'm Working On
+Real-world problems in Cybersecurity and HealthTech - Check my repositories below 👇
