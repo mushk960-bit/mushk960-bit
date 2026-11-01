@@ -1,16 +1,17 @@
-## Hi there 👋
+# Jaweriya Muskan Patel 👋
 
-<!--
-**mushk960-bit/mushk960-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Digital Forensics & Cybersecurity Enthusiast | Pune
 
-Here are some ideas to get you started:
+Building secure digital systems. Passionate about Cyber Forensics, Ethical Hacking, and AI-driven threat detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 MCA @ PDEA College of Engineering, Manjri, Pune
+- 🔍 Focus: Digital Forensics | Cyber Threat Analysis | Email Forensics
+- 🚀 Projects: AI-Based Cyber Threat Detection | Hospital Beds & Crisis Coordinator Platform
+- 🏆 Hackathons: SIH 2026 Internal Hackathon | CuriousPARC - VIT Pune & Vishwakarma
+- 📫 Let's Connect: [LinkedIn](https://linkedin.com/in/jaweriya-muskan) | [Email](mailto:your-email@gmail.com)
+
+### 🛠️ Skills
+`Python` `Cyber Security` `Digital Forensics` `Wireshark` `Kali Linux` `Machine Learning` `JavaScript` `React` `Git & GitHub`
+
+### 📌 Featured Work
+Check out my repositories below - working on real-world problems in Cybersecurity and HealthTech.
