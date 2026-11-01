@@ -15,3 +15,7 @@ I build secure digital systems. Passionate about Cyber Forensics, Threat Detecti
 
 ### 📌 What I'm Working On
 Real-world problems in Cybersecurity and HealthTech - Check my repositories below 👇
+
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=mushk960-bit&label=Profile%20Views&color=blue&style=flat)
